@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%\n" $DECIMAL
+tr 'A-Za-z' 'N-ZA-Mn-Za-M'
