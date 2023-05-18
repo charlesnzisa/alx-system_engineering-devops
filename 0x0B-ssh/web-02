@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Connect to your server
+#key ~/.ssh/school with the user ubuntu
+ssh -i /root/.ssh/id_rsa ubuntu@3.84.158.156
